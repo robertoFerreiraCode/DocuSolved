@@ -16,5 +16,5 @@ To run:
 
 `npm start`
 
-Alternatively hosted [here](docusolved.netlify.app)
+Alternatively hosted [here](https://docusolved.netlify.app)
 
