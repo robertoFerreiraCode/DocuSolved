@@ -4,6 +4,8 @@ Accenture group hackathon tasked with improving how developers write documentati
 
 Note: Due to Google vision API subscription expiring, the application is no longer functional. However, the front end is still usable.
 
+![Screenshot](https://user-images.githubusercontent.com/93106408/204733924-fba7998d-35b3-4122-b63f-fa02512b7910.JPG)
+
 ## Setup 
 
 Clone this repository. You will need `node` and `npm` installed globally on your machine.
